@@ -1,6 +1,6 @@
-# Introducció a Objectes Simulats:
-   - Els objectes simulats són utilitzats per simular el comportament d'objectes reals en el sistema.
-   - Són útils per provar el comportament d'una classe que depèn d'altres classes o components sense necessitat d'utilitzar les implementacions reals.
+# Introducción a Objetos Simulados:
+   - Los objetos simulados se utilizan para simular el comportamiento de objetos reales en el sistema.
+   - Son útiles para probar el comportamiento de una clase que depende de otras clases o componentes sin necesidad de utilizar las implementaciones reales.
 
    ---
 
