@@ -1,6 +1,0 @@
-  GITFLOW
-___________
-version 2
-
-linea changed
-linea changed
