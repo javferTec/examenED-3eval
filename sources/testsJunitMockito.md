@@ -24,7 +24,7 @@ Las pruebas de integración, por otra parte, verifican cómo se pueden combinar 
 
 ## Para qué sirven JUnit Y Mockito
 
-- **JUnit:** Nos permite evaluar eñ resultado de la ejecución de un método. Es decir, nos permite comparar el resultado esperado, con el que realmente estamos obteniendo después de ejecutar el método.
+- **JUnit:** Nos permite evaluar el resultado de la ejecución de un método. Es decir, nos permite comparar el resultado esperado, con el que realmente estamos obteniendo después de ejecutar el método.
 
 - **Mockito:** Nos ayuda a simular la respuesta de otro método necesario para ejecutar el método que necesitamos probar. Esto nos permite centrarnos únicamente en el método que deseamos probar. 
 
