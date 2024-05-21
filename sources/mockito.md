@@ -21,8 +21,8 @@
 
 1. **Configuración Inicial:**
    - **@ExtendWith(MockitoExtension.class):** Utilizada para integrar Mockito en las pruebas.
-   - **@Mock:** Para crear objetos simulados.
-   - **@InjectMocks:** Para inyectar los objetos simulados en la clase que se está probando.
+   - **@Mock *(unitario)*:** Para crear objetos simulados.
+   - **@InjectMocks *(unitario)*:** Para inyectar los objetos simulados en la clase que se está probando.
 
    ```java
    @ExtendWith(MockitoExtension.class)

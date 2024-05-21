@@ -11,10 +11,13 @@
 # Testing
 [link](./sources/testsJunitMockito.md)
 
-- # Objetos simulados (Mocks manuales)
+- # Objetos simulados (Mocks manuales - Unitarios)
     [link](./sources/objetosSimulados.md)
 
 - # Mockito
     [link](./sources/mockito.md)
+
+- # Test de integración
+    [link](./sources/testIntegracion.md)
 
 ---
